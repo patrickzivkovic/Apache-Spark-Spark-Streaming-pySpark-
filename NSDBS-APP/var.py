@@ -1,2 +1,0 @@
-search = ['racism']
-exit = False
