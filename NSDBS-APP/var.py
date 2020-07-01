@@ -1,0 +1,2 @@
+search = ['racism']
+exit = False

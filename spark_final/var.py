@@ -1,0 +1,1 @@
+search = ['racism', ' police brutality']
